@@ -7,7 +7,7 @@ P2P auction protocol for physical precious metals, built with CosmWasm smart con
 ## The Problem
 *   COMEX/LBMA paper price manipulation.
 *   eBay/Dealer fees (15%) and reversible chargebacks.
-*   Illiquidity and unfair pricing for physical holders (e.g., 90% silver).
+*   Illiquidity and unfair pricing for physical holders 
 
 ## The Solution: A Peer-to-Peer Auction Protocol
 A decentralized, non-custodial marketplace where:
